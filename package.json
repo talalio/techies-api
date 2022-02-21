@@ -1,0 +1,26 @@
+{
+  "name": "techies-api",
+  "version": "1.0.0",
+  "description": "the backend for sdn-githubs",
+  "main": "index.js",
+	"type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arashi-u/sdn-githubs-api.git"
+  },
+  "author": "talal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arashi-u/sdn-githubs-api/issues"
+  },
+  "homepage": "https://github.com/arashi-u/sdn-githubs-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.0"
+  }
+}
