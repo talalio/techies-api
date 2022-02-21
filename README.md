@@ -1,3 +1,7 @@
+![maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
+![madewith](https://img.shields.io/badge/Made%20with-Node-freen?style=for-the-badge)
+![issues](https://img.shields.io/github/issues/arashi-u/techies-api.svg?style=for-the-badge)
+
 ## Installation
 
 Clone the repository and install dependencies
